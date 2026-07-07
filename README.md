@@ -21,4 +21,4 @@ No accounts. No telemetry. No hosted settings server.
 
 ## Updates
 
-Starboard checks for new versions on launch. When one is available, an UPDATE NOW banner appears in the app - Starboard downloads the new build and restarts itself. Your deck and settings are kept.
+Starboard checks for new versions on launch. When one is available, an UPDATE NOW banner appears in the app - Starboard downloads the new build and restarts itself. Your deck and settings are kept. Normal app/UI fixes ship as a small `Starboard-patch-win64.zip`; installed copies prefer that automatically and fall back to the full `Starboard-win64.zip` if the patch is missing or fails.
