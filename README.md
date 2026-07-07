@@ -6,7 +6,7 @@ Public download repository for Starboard, a local-first Windows command deck by 
 
 Latest Windows package:
 
-https://github.com/lJazzpahlol/starboard-download/releases/latest/download/Starboard-0.1.0-win64.zip
+https://github.com/lJazzpahlol/starboard-download/releases/latest/download/Starboard-win64.zip
 
 ## Install
 
@@ -18,3 +18,7 @@ https://github.com/lJazzpahlol/starboard-download/releases/latest/download/Starb
 Starboard creates `config.json` and `starboard.log` beside `Starboard.exe` after first launch.
 
 No accounts. No telemetry. No hosted settings server.
+
+## Updates
+
+Starboard checks for new versions on launch. When one is available, an UPDATE NOW banner appears in the app - Starboard downloads the new build and restarts itself. Your deck and settings are kept.
